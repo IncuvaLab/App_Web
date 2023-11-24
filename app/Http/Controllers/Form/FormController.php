@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Mail;
 use App\Jobs\SendEmailFormDone;
 use App\Mail\EmailFormDoneQueue;
 
+// Controller de los forms
 class FormController extends Controller
 {
     public function getForms()

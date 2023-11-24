@@ -10,8 +10,8 @@ use App\Models\User;
 class VideoController extends Controller
 {
     public function showVideo() {
-        // Aquí va la lógica de tu página
+        // Redireccionamiento a videos
          return view('teacher.videosAndQuestions');
-        //return redirect()->route('showVideo');
+
     }
 }

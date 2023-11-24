@@ -43,7 +43,7 @@ Route::get('/form5', [FormController::class, "form5"])->name('form5');
 Route::get('/form6', [FormController::class, "form6"])->name('form6');
 Route::get('/form7', [FormController::class, "form7"])->name('form7');
 
-//Video and Questions
+//Videos
 Route::get('/video', [App\Http\Controllers\VideoController::class, "showVideo"])->name('video');
 
 

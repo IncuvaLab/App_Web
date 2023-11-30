@@ -206,3 +206,8 @@ o Php empleado con laravel para funciones del servidor.
 · Frameworks:
 
 o Laravel empleado para funciones del servidor
+
+-----------------------------------------------------------------------------------------------------------
+
+Video - Incuvalab
+https://youtu.be/N3-_8Bw1OvQ
